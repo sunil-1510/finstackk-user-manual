@@ -1,4 +1,4 @@
-![Alt Text](./Images/Logo.png)
+![Alt Text]Logo.png
 
 # User Manual
 
