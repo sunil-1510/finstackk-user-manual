@@ -1,6 +1,6 @@
 ![Alt Text](Images/Logo.png)
 
-# User Manual
+# ** FinStackk User Manual**
 
 ## **1. Introduction**
 
@@ -83,29 +83,29 @@ Once you have reviewed our terms and policies and are ready to proceed, you can 
 
 The "Company Name" field is a required field, which means that it must be completed before you can proceed with the registration process. Please ensure that you enter a valid company name, as this will be used to identify your company on our platform.
 
-![Alt Text](./Images/Step2-1.png)
+![Alt Text](Images/Step2-1.png)
 
-![Alt Text](./Images/Step2-2.png)
+![Alt Text](Images/Step2-2.png)
 
 - If you are an individual user, you can enter your name or any other identifier that you wish to use as your company name. However, if you are registering on behalf of a business or organization, please enter the legal name of your company in this field.
 - The maximum length for the "Company Name" field is 150 letters, which does not allow any punctuation marks or other special characters. If your company name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
 
-![Alt Text](./Images/Step2-3.png)
+![Alt Text](Images/Step2-3.png)
 
 - Please make sure that you spell your company name correctly and without any typos. Any errors or misspellings could result in delays or difficulties in identifying your company on our platform.
 - Once you have entered your company name in the "Company Name" field, you can proceed to the next step of the registration process by filling out the remaining required fields, including your first name, last name, email address, and password.
 
-![Alt Text](./Images/Step2-4.png)
+![Alt Text](Images/Step2-4.png)
 
 **Step 3:** Fill in the First Name
 
 - The "First Name" field is a required field, and you must enter your first name correctly to complete the registration process. Please ensure that you enter your first name without any errors or mistakes to avoid any issues with your account in the future.
 
-![Alt Text](./Images/Step3-1.png)
+![Alt Text](Images/Step3-1.png)
 
 - The maximum length for the "First Name" field is 150 letters, which does not accept any punctuation marks, and other special characters. If your first name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
 
-![Alt Text](./Images/Step3-2.png)
+![Alt Text](Images/Step3-2.png)
 
 - Please double-check the spelling of your first name before submitting the registration form to avoid any typos or errors.
 
@@ -113,17 +113,17 @@ The "Company Name" field is a required field, which means that it must be comple
 
 - Once you have entered your first name in the "First Name" field, you can proceed to the next step of the registration process by filling out the remaining required fields, including your last name, email address, and password.
 
-![Alt Text](./Images/Step3-3.png)
+![Alt Text](Images/Step3-3.png)
 
 **Step 4:** Fill in the Last Name
 
 - The "Last Name" field is a required field, and you must enter your last name correctly to complete the registration process. Please ensure that you enter your last name without any typos or errors to avoid any issues with your account in the future.
 
-![Alt Text](./Images/Step4-1.png)
+![Alt Text](Images/Step4-1.png)
 
 - The maximum length for the "Last Name" field is 150 letters, which does not undertake punctuation marks, and other special characters. If your last name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
 
-![Alt Text](./Images/Step4-2.png)
+![Alt Text](Images/Step4-2.png)
 
 - Please double-check the spelling of your last name before submitting the registration form to avoid any typos or errors.
 
@@ -131,15 +131,15 @@ The "Company Name" field is a required field, which means that it must be comple
 
 - Once you have entered your last name in the "Last Name" field, you can proceed to the next step of the registration process by filling out the remaining required fields, including your email address, password, and confirmation of the password.
 
-![Alt Text](./Images/Step4-3.png)
+![Alt Text](Images/Step4-3.png)
 
 **Step 5:** Fill in the Email Id
 
 - The "Email Id" field is a required field, and you must enter a valid email address to complete the registration process. Please ensure that the email address you enter is accurate and valid as it will be used to send important communication and updates.
 
-![Alt Text](./Images/Step5-1.png)
+![Alt Text](Images/Step5-1.png)
 
-![Alt Text](./Images/Step5-2.png)
+![Alt Text](Images/Step5-2.png)
 
 - It is recommended that you use a personal email address if you are an individual user and a work email address if you are representing your company.
 
@@ -149,51 +149,51 @@ The "Company Name" field is a required field, which means that it must be comple
 
 - Once you have entered your email address in the "Email Id" field, please confirm that it is correct before proceeding to the next step of the registration process by filling out the remaining required fields, including your password and confirmation of the password.
 
-![Alt Text](./Images/Step5-3.png)
+![Alt Text](Images/Step5-3.png)
 
 **Step 6:** Fill in the Password
 
 - The "Password" field is a required field, and you must create a strong and secure password to protect your account from unauthorized access. Please ensure that your password meets our security standards to avoid any issues with account security in the future.
 
-![Alt Text](./Images/Step6-1.png)
+![Alt Text](Images/Step6-1.png)
 
 - A strong password should be at least 6 characters long and include a mix of uppercase and lowercase letters, numbers, and symbols. Avoid using common words or phrases, as they are easier to guess.
 
-![Alt Text](./Images/Step6-2.png)
+![Alt Text](Images/Step6-2.png)
 
 - Please ensure that you enter your password correctly and securely, and do not share your password with anyone. We will never ask you for your password, and if you receive any suspicious communication asking for your password, please report it to our support team immediately.
 
 - If you forget your password, you can reset it by clicking on the "Forgot Password" link on the login page. You will need to provide your email address to reset your password.
 
-![Alt Text](./Images/Step6-3.png)
+![Alt Text](Images/Step6-3.png)
 
 - Once you have created a strong and secure password, please confirm that it is correct before proceeding to the next step of the registration process by filling out the remaining required fields, including confirmation of the password and agreeing to the terms and policies.
 
-![Alt Text](./Images/Step6-4.png)
+![Alt Text](Images/Step6-4.png)
 
 **Step 7:** Re-enter the Password
 
 - The "Re-enter Password" field is a required field, and you must enter your password again to confirm that you have typed it correctly. This ensures that you have entered the correct password and helps to prevent any typos or errors.
 
-![Alt Text](./Images/Step7-1.png)
+![Alt Text](Images/Step7-1.png)
 
 - Please ensure that you enter your password correctly in both the "Password" and "Re-enter Password" fields to avoid any issues with logging in to your account or accessing your personal information.
 
 - If you notice any discrepancies between the two password fields, please retype your password carefully in both fields to ensure that they match.
 
-![Alt Text](./Images/Step7-2.png)
+![Alt Text](Images/Step7-2.png)
 
 - Please do not share your password with anyone, including our support team. We will never ask you for your password, and if you receive any suspicious communication asking for your password, please report it to our support team immediately.
 
 - Once you have confirmed your password by entering it again in the "Re-enter Password" field, please proceed to the next step of the registration process by agreeing to the terms and policies.
 
-![Alt Text](./Images/Step7-3.png)
+![Alt Text](Images/Step7-3.png)
 
 **Step 8:** Accepting Privacy Policy & Terms
 
 - The "Agree to Terms and Policies" is required to successfully register your account, and you must read through the terms and policies carefully before checking the box to indicate that you have read and agreed to them.
 
-![Alt Text](./Images/Step8-1.png)
+![Alt Text](Images/Step8-1.png)
 
 - The terms and policies are designed to protect your rights and ensure that our service is delivered fairly and securely. We recommend that you read through them carefully and make sure that you understand all of the terms before proceeding.
 
@@ -201,13 +201,13 @@ The "Company Name" field is a required field, which means that it must be comple
 
 - By checking the box to indicate that you have read and agreed to the terms and policies, you are legally bound to abide by the terms and policies outlined in the agreement. Please ensure that you understand the terms and policies before proceeding.
 
-![Alt Text](./Images/Step8-2.png)
+![Alt Text](Images/Step8-2.png)
 
 - If you do not agree with the terms and policies, you will not be able to register for our service. If you have any objections to the terms and policies, please do not proceed with the registration process.
 
 - Once you have read through the terms and policies and are satisfied that you understand and agree with them, please check the box to indicate that you have read and agreed to the terms and policies before proceeding to the next step of the registration process.
 
-![Alt Text](./Images/Step8-3.png)
+![Alt Text](Images/Step8-3.png)
 
 **Step 9:** Subscribe Your Account
 
@@ -227,15 +227,15 @@ In this user manual, we will guide you through the login process for FinStackk. 
 
 To log in to your account, you need to first visit the login page of FinStackk.
 
-![Alt Text](./Images/LoginStep1.png)
+![Alt Text](Images/LoginStep1.png)
 
 **Step 2:** Enter the Email ID
 
 - When you try to log in to your account, you will be prompted to enter your email ID. It is important to note that your email ID is a required field, and you will not be able to log in without entering a valid email address. If you have forgotten your email ID, you may need to check the email address associated with your account or contact customer support for assistance.
 
-![Alt Text](./Images/LoginStep2-1.png)
+![Alt Text](Images/LoginStep2-1.png)
 
-![Alt Text](./Images/LoginStep2-2.png)
+![Alt Text](Images/LoginStep2-2.png)
 
 - When entering your email ID, make sure that you use the correct email address that you used to register for the account. If you have multiple email IDs, double-check that you are using the correct one for this specific account. It is important to ensure that your email ID is entered accurately as it is used to verify your identity and send you important notifications and updates.
 
@@ -247,21 +247,21 @@ To log in to your account, you need to first visit the login page of FinStackk.
 
 - Once you have entered your email ID, double-check that it has been entered correctly before moving on to the password field. This will help ensure a smooth and secure login process.
 
-![Alt Text](./Images/LoginStep2-3.png)
+![Alt Text](Images/LoginStep2-3.png)
 
 **Step 3:** Enter the Password
 
 - Entering the correct password is crucial to successfully logging in to your account. Make sure that you type in your password carefully, paying attention to any uppercase or lowercase letters, numbers, or symbols that may be a part of your password.
 
-![Alt Text](./Images/LoginStep3-1.png)
+![Alt Text](Images/LoginStep3-1.png)
 
 - If you enter an incorrect password, you will receive an error message indicating that the password is not valid. Make sure that you have entered the correct password, including any uppercase or lowercase letters, numbers, and symbols, without any typos before clicking on the "Sign In" button.
 
-![Alt Text](./Images/LoginStep3-2.png)
+![Alt Text](Images/LoginStep3-2.png)
 
 - If you repeatedly enter an incorrect password, you may be temporarily locked out of your account for security reasons. In such a case, you will need to wait for a specific period of time or follow the instructions provided on the login page to unlock your account.
 
-![Alt Text](./Images/LoginStep3-3.png)
+![Alt Text](Images/LoginStep3-3.png)
 
 - Make sure that you enter your password carefully and double-check that it is correct before clicking the "Sign In" button.
 
@@ -269,7 +269,7 @@ To log in to your account, you need to first visit the login page of FinStackk.
 
 - After entering your correct email ID and password and clicking on the "Sign In" button, you will be directed to the Two Factor Authentication page where you will need to enter a code sent to your email to complete the login process. This provides an extra layer of security for your account.
 
-![Alt Text](./Images/LoginStep3-4.png)
+![Alt Text](Images/LoginStep3-4.png)
 
 - In case you have forgotten your password, you can click on the "Forgot Password" button on the login page so that you can reset the password for a smooth further login.
 
@@ -281,19 +281,19 @@ At FinStackk, we take the security of our users' accounts very seriously, and we
 
 - Two-factor authentication typically involves providing an additional verification code sent to your email after entering your password. This step ensures that only authorized users can access your account, even if your password is compromised.
 
-![Alt Text](./Images/LoginStep4-1.png)
+![Alt Text](Images/LoginStep4-1.png)
 
 - After entering your email ID and password, you may be prompted to enter a verification code generated by an authentication device or application which is sent to your Email ID. This code is unique and changes every few seconds, making it much harder for anyone to gain access to your account even if they have your password. You need to enter this code in the field provided to complete the login process.
 
-![Alt Text](./Images/LoginStep4-2.png)
+![Alt Text](Images/LoginStep4-2.png)
 
 - It is important to note that the authentication code generated for 2FA may expire after a certain period of time if not used. This is a security measure designed to ensure that your account remains secure in case your phone or authentication device is lost or stolen. So, if you receive an error message while trying to log in using 2FA, make sure to generate a new authentication code and enter it within the allotted time period.
 
-![Alt Text](./Images/LoginStep4-3.png)
+![Alt Text](Images/LoginStep4-3.png)
 
 - If you haven't received OTP even after waiting for a few minutes, you can click on "Resend OTP" in the Two Factor Authentication page.
 
-![Alt Text](./Images/LoginStep4-4.png)
+![Alt Text](Images/LoginStep4-4.png)
 
 - You will be successfully signed in after verifying your correct 2FA code. Remember that you will be prompted to enter a verification code every time you log in.
 
@@ -311,27 +311,27 @@ The dashboard is the main interface, providing you with an overview of your fina
 
 - The compliance section of the dashboard allows you to manage your compliance obligations, tasks, and notices.
 
-![Alt Text](./Images/OVDB1.png)
+![Alt Text](Images/OVDB1.png)
 
 - The reports section provides you with the ability to generate detailed financial reports when integrated, helping you make informed business decisions.
 
-![Alt Text](./Images/OVDB2.png)
+![Alt Text](Images/OVDB2.png)
 
 - The messaging system enables communication between users, such as sending files or sharing important updates.
 
-![Alt Text](./Images/OVDB3.png)
+![Alt Text](Images/OVDB3.png)
 
 - The document storage section provides you with a secure and organized way to store and share important documents, such as financial statements or contracts.
 
-![Alt Text](./Images/OVDB4.png)
+![Alt Text](Images/OVDB4.png)
 
 - The company section of the dashboard includes details about your company, such as company information. The compliance section allows you to manage your compliance obligations at a company level. The payments section provides you with an overview of your payment history and current payment status. The users section allows you to manage the permissions and access levels of other users within the company.
 
-![Alt Text](./Images/OVDB5.png)
+![Alt Text](Images/OVDB5.png)
 
 - Finally, the logout and settings options provide you with the ability to securely log out of the website and manage your account settings, such as updating your password.
 
-![Alt Text](./Images/OVDB6.png)
+![Alt Text](Images/OVDB6.png)
 
 The dashboard in FinStackk provides you with a centralized and efficient way to manage your financial activities, helping you stay organized, compliant, and informed.
 
@@ -360,7 +360,7 @@ At FinStackk, we understand the importance of integrations and have made it a pr
 
 FinStackk offers seamless integration with QuickBooks and WorkDocs, two of the most popular cloud-based software solutions in the market. By integrating with these platforms, we provide our users with a highly streamlined and efficient experience that makes it easier to manage their finances and business operations.
 
-![Alt Text](./Images/Int1.png)
+![Alt Text](Images/Int1.png)
                                   
 - With our integration with QuickBooks, users can easily import their financial data and keep their books up-to-date without any manual data entry. This helps them save time and effort while ensuring that their financial records are accurate and reliable.
 
@@ -370,7 +370,7 @@ Overall, our integration with these powerful software solutions is designed to h
 
 **QuickBooks:**
 
-![Alt Text](./Images/Int2.jpg)
+![Alt Text](Images/Int2.jpg)
 
 QuickBooks is a popular accounting software package developed and marketed by Intuit. It is designed to help small and medium-sized businesses manage their financial operations more efficiently. QuickBooks allows users to track expenses, create and send invoices, manage payroll, and generate financial reports.
  
@@ -390,11 +390,11 @@ QuickBooks also offers integration with other software and services, allowing bu
 
 - By integrating with QuickBooks, your businesses can automate financial tasks and reduce the likelihood of errors or inconsistencies in their financial records which saves you time.
 
-![Alt Text](./Images/Int3.png)
+![Alt Text](Images/Int3.png)
                
 **WorkDocs:**         
 
-![Alt Text](./Images/Int4.jpg)
+![Alt Text](Images/Int4.jpg)
 
 WorkDocs is a secure, fully managed, file collaboration and management service offered by Amazon Web Services (AWS). It provides a central place to store, share, and collaborate on files, making it easier for teams to work together and stay productive. WorkDocs offers features such as version control, file locking, and commenting, making it ideal for businesses that need to manage sensitive information and collaborate on projects in a secure environment. With WorkDocs, users can access files from anywhere, on any device, and can collaborate in real-time with their team members.
 
@@ -434,9 +434,9 @@ Follow the process below for the best usage of our Reports Feature.
 
 Log in to your account on FinStackk where you will be directed to Dashboard/Homepage. Then navigate to the Reports section from the dropdown menu of Dashboard from the side menu.
 
-![Alt Text](./Images/ReportStep1-1.png)
+![Alt Text](Images/ReportStep1-1.png)
 
-![Alt Text](./Images/ReportStep1-2.png)
+![Alt Text](Images/ReportStep1-2.png)
 
 **Step 2:** Integrating with QuickBooks
 
@@ -446,9 +446,9 @@ To access the Reports feature that includes Cashflow, Profit and Loss, Balance S
 
 - After integrating with QuickBooks, FinStackk automatically sync’s the data related to the company chosen. Therefore, there is no need for you to generate each and every report as it automatically generates all Reports our FinStackk offers.
 
-![Alt Text](./Images/ReportStep2-1.png)
+![Alt Text](Images/ReportStep2-1.png)
 
-![Alt Text](./Images/ReportStep2-2.png)
+![Alt Text](Images/ReportStep2-2.png)
 
 **Step 3:** Types of Reports
 
@@ -466,17 +466,17 @@ With this feature, you can get a clear understanding of your cash inflow and out
 
 - We at FinStackk offer cashflow in reports to make it easier for you to track the cash inflows and outflows of their business. With the cashflow report, you can see a clear picture of your business's financial health and make informed decisions based on the information presented. This report shows the cash movements within your business for a given period, including the opening balance, cash inflows from sales, investments, and other sources, as well as cash outflows for expenses, purchases, and other payments. By analyzing the cashflow report, you can identify potential cash flow issues, such as a shortage of cash to cover upcoming expenses, and take action to address them before they become critical.
 
-![Alt Text](./Images/ReportStep3-1.png)
+![Alt Text](Images/ReportStep3-1.png)
 
 - In addition, we have included a filter to help you focus on specific time periods or categories. The main benefit of the cashflow report and highlights the added functionality of the filter, which allows you to customize the view of the data.
 
 - Filter provides options like date, date macro and summarize column by. You can filter it according to your needs from the given options and then click on Apply Filter for it to work and can also reset the filter to default.
 
-![Alt Text](./Images/ReportStep3-2.png)
+![Alt Text](Images/ReportStep3-2.png)
                   
-![Alt Text](./Images/ReportStep3-3.png)
+![Alt Text](Images/ReportStep3-3.png)
 
-![Alt Text](./Images/ReportStep3-4.png)
+![Alt Text](Images/ReportStep3-4.png)
 
 **Profit And Loss**
 
@@ -490,17 +490,17 @@ The Profit and Loss report also includes the cost of goods sold, which is the di
 
 - FinStackk provides with Profit and Loss in Reports for you to have a comprehensive overview of your business's financial performance. This feature allows you to track your revenue and expenses over a specific period and generate a report that highlights your net profit or loss. With Profit and Loss reports, you can quickly identify areas where you can reduce costs, increase revenue, and improve your business's overall financial health. This feature provides valuable insights into your business's profitability and helps you make informed financial decisions.
 
-![Alt Text](./Images/ReportStep3-5.png)
+![Alt Text](Images/ReportStep3-5.png)
 
 - Our Profit and Loss report also come with a useful filter feature, allowing you to easily view specific date ranges or select a specific option for specific performance across multiple periods. 
 
 - Filter provides options like accounting method, date, date macro and summarize column by. You can filter it according to your needs from the given options and then click on Apply Filter for it to work. You can also reset the filter to default.
 
-![Alt Text](./Images/ReportStep3-6.png)
+![Alt Text](Images/ReportStep3-6.png)
 
-![Alt Text](./Images/ReportStep3-7.png)
+![Alt Text](Images/ReportStep3-7.png)
 
-![Alt Text](./Images/ReportStep3-8.png)
+![Alt Text](Images/ReportStep3-8.png)
 
 **Balance Sheet**
 
@@ -514,15 +514,15 @@ A balance sheet is useful because it provides an overview of a company's financi
 
 - We at FinStackk offer you a Balance Sheet in reports to get a better understanding of your company’s financial position. With our balance sheet report, you can quickly view your company’s assets, liabilities, and equity at a specific point in time. This feature allows you to make more informed decisions and better manage your business’s financial health. With this report, you can quickly see where your business stands and make informed decisions about future investments or financing options.
 
-![Alt Text](./Images/ReportStep3-9.png)
+![Alt Text](Images/ReportStep3-9.png)
 
 - Additionally, we provide the option to filter the report by accounting method, date, date macro and summarize column by, to get more detailed insights into your finances. You can filter it according to your needs from the given options and then click on Apply Filter for it to work and can also reset the filter to default.
 
-![Alt Text](./Images/ReportStep3-10.png)
+![Alt Text](Images/ReportStep3-10.png)
 
-![Alt Text](./Images/ReportStep3-11.png)
+![Alt Text](Images/ReportStep3-11.png)
 
-![Alt Text](./Images/ReportStep3-12.png)
+![Alt Text](Images/ReportStep3-12.png)
 
 **Aged Payables**
 
@@ -534,17 +534,17 @@ In addition to the Vendor name and outstanding balance, the aged payables report
 
 - We understand that managing payables is crucial for any business, and that's why FinStackk provides you with Aged Payables in Reports. This feature allows you to track the money you owe to your vendors and suppliers in a clear and organized manner.
 
-![Alt Text](./Images/ReportStep3-13.png)
+![Alt Text](Images/ReportStep3-13.png)
 
 - Additionally, we offer a filter option that enables you to customize the report according to your specific needs, making the process even more efficient and effective.
 
 - Filter provides options like date macro and aging method (additional date field is given if report date is selected). You can filter it according to your needs from the given options and then click on Apply Filter for it to work. You can also reset the filter to default.
 
-![Alt Text](./Images/ReportStep3-14.png)
+![Alt Text](Images/ReportStep3-14.png)
 
-![Alt Text](./Images/ReportStep3-15.png)
+![Alt Text](Images/ReportStep3-15.png)
 
-![Alt Text](./Images/ReportStep3-16.png)
+![Alt Text](Images/ReportStep3-16.png)
 
 **Aged Receivables**
 
@@ -556,15 +556,15 @@ By generating an Aged Receivables report, businesses can identify the customers 
 
 - FinStackk can provide you with aged receivables in reports to help you better manage your outstanding invoices and track your customers' payment history. This report allows you to see which customers owe you money and how long the payment has been outstanding.
 
-![Alt Text](./Images/ReportStep3-17.png)
+![Alt Text](Images/ReportStep3-17.png)
 
 - With the added filter feature, you can easily view aged receivables by date macro and aging method (additional date field is given if report date is selected), giving you more control and flexibility in managing your accounts receivable. You can filter it according to your needs from the given options and then click on Apply Filter for it to work and can also reset the filter to default.
 
-![Alt Text](./Images/ReportStep3-18.png)
+![Alt Text](Images/ReportStep3-18.png)
 
-![Alt Text](./Images/ReportStep3-19.png)
+![Alt Text](Images/ReportStep3-19.png)
 
-![Alt Text](./Images/ReportStep3-20.png)
+![Alt Text](Images/ReportStep3-20.png)
 
 Hence, reports are a powerful tool that can help businesses stay on top of their finances and make informed decisions. They can help business owners and accountants make informed decisions by analysing data and trends.
 
@@ -587,15 +587,15 @@ on how to use tasks in FinStackk:
 
 Login with the Admin credentials into the FinStackk, you will be directed to Dashboard. Then navigate to Task option by clicking on Admin dropdown from the side menu.
 
-![Alt Text](./Images/TaskStep1-1.png)          
+![Alt Text](Images/TaskStep1-1.png)          
 
-![Alt Text](./Images/TaskStep1-2.png)  
+![Alt Text](Images/TaskStep1-2.png)  
 
 **Step 2:** Creating A New Task
 
 You can create a new Task by clicking on “Add New Task” button. You will be navigated to a dialog box named Add Task.
 
-![Alt Text](./Images/TaskStep2-1.png)  
+![Alt Text](Images/TaskStep2-1.png)  
 
 - **Task Name:** When creating a task, start by giving it a descriptive and informative name. This will help you and other users easily identify what the task is about. For example, "Pay Rent" or "Tax Filing".
 - **Periodicity:** Next, choose the frequency at which the task needs to be completed. This could be Yearly, Quarterly, Monthly, Onetime, Biweekly and Semi-annual, or any other frequency that suits the task.
@@ -625,15 +625,15 @@ Compliances are a crucial aspect of FinStackk, and as an administrator, it's imp
 
 Login with the Admin credentials into the FinStackk, you will be directed to Dashboard. Then navigate to Compliance option by clicking on Admin dropdown from the side menu.
 
-![Alt Text](./Images/ComplianceStep1-1.png)
+![Alt Text](Images/ComplianceStep1-1.png)
 
-![Alt Text](./Images/ComplianceStep1-2.png)
+![Alt Text](Images/ComplianceStep1-2.png)
 
 **Step 2:** Creating A New Compliance
 
 You can create a new Compliance by clicking on “Add New Compliance” button. You will be navigated to a dialog box named Add Compliance.
           
-![Alt Text](./Images/ComplianceStep2-1.png)
+![Alt Text](Images/ComplianceStep2-1.png)
 
 - **Compliance Name:** This refers to the name of the compliance that needs to be followed. For example, a compliance name can be "Annual Filing of Tax Returns."
 - **Type:** This refers to the type of compliance. It can be Federal, State, City, County.
@@ -656,9 +656,9 @@ After providing these details, click on Add button and the compliance is created
 
 Apart from adding a compliance you can also import a compliance. You can click on Import Compliance button to import your own compliance. For better understanding you can download our sample compliance template from the import compliance dialog box. 
 
-![Alt Text](./Images/ComplianceStep3-1.png)
+![Alt Text](Images/ComplianceStep3-1.png)
 
-![Alt Text](./Images/ComplianceStep3-2.png)
+![Alt Text](Images/ComplianceStep3-2.png)
 
 In summary, compliance is a crucial aspect of any financial field, and it involves following regulations, laws, and best practices to maintain the integrity and trust of the business.
 
@@ -680,9 +680,9 @@ Notices can typically be accessed through a dedicated section or page on FinStac
 
 To access the Notices feature, log in to your account in FinStackk and click on the Compliance tab from the Dashboard dropdown on the side menu. Then you can click on “Notices” tab to navigate to Notices page.
 
-![Alt Text](./Images/NoticesStep1-1.png)
+![Alt Text](Images/NoticesStep1-1.png)
 
-![Alt Text](./Images/NoticesStep1-2.png)
+![Alt Text](Images/NoticesStep1-2.png)
 
 **Step 2:** Creating a New Notice
 
@@ -694,7 +694,7 @@ To create a new notice, click on the "Add New Notice" button. You will be prompt
 - **Assignee:** Select the person or team responsible for the notice.
 - **Notice Description:** Enter a detailed description of the notice.
 
-![Alt Text](./Images/NoticesStep2-1.png)           
+![Alt Text](Images/NoticesStep2-1.png)           
 
 **Step 3:** Uploading Files
 
@@ -704,23 +704,23 @@ You can upload relevant files or documents related to the notice by clicking on 
 
 - After successfully creating a Notice with all details as in Step 2 and with a file attached you can click on “Add” button to Add a New Notice in the Notice Section. You will also receive a notice successfully created message.
 
-![Alt Text](./Images/NoticesStep3-1.png)
+![Alt Text](Images/NoticesStep3-1.png)
 
-![Alt Text](./Images/NoticesStep3-2.png)
+![Alt Text](Images/NoticesStep3-2.png)
 
-![Alt Text](./Images/NoticesStep3-3.png)
+![Alt Text](Images/NoticesStep3-3.png)
 
 **Step 4:** Filtering Notices
 
 You can filter notices by status, assignee, and due date to find the information you need quickly. Use the Filter icon on the right of the page to select the filter criteria.
 
-![Alt Text](./Images/NoticesStep4-1.png)
+![Alt Text](Images/NoticesStep4-1.png)
               
-![Alt Text](./Images/NoticesStep4-2.png)
+![Alt Text](Images/NoticesStep4-2.png)
 
-![Alt Text](./Images/NoticesStep4-3.png)
-          
-![Alt Text](./Images/NoticesStep4-4.png)
+![Alt Text](Images/NoticesStep4-3.png)
+
+![Alt Text](Images/NoticesStep4-4.png)
                                       
 - You can also reset the Filter to return to its default state.
 
@@ -730,49 +730,49 @@ You can filter notices by status, assignee, and due date to find the information
 
 - Editing and commenting on notices allows you to update or provide additional information to the notice, while deleting notices allows you to remove the notice if it's no longer relevant or necessary.
 
-![Alt Text](./Images/NoticesStep5-1.png)
+![Alt Text](Images/NoticesStep5-1.png)
 
 - To comment on a notice, simply locate the notice you want to comment and click on the "Comment" button. This will open the notice details page where you can comment on the notice, this will allow you to add your comments and share your thoughts with other team members or stakeholders and it also allows you to delete, edit your Comment. You can also edit the notice like description, status, and assignee. Once you're done making changes, click the "Save" button to update the notice. Note that Name of the Notice and Due Date cannot be changed.
 
-![Alt Text](./Images/NoticesStep5-2.png)     
+![Alt Text](Images/NoticesStep5-2.png)     
 
-![Alt Text](./Images/NoticesStep5-3.png)        
+![Alt Text](Images/NoticesStep5-3.png)        
 
-![Alt Text](./Images/NoticesStep5-4.png)
+![Alt Text](Images/NoticesStep5-4.png)
 
-![Alt Text](./Images/NoticesStep5-5.png)
+![Alt Text](Images/NoticesStep5-5.png)
  
-![Alt Text](./Images/NoticesStep5-6.png)           
+![Alt Text](Images/NoticesStep5-6.png)           
 
-![Alt Text](./Images/NoticesStep5-7.png)
+![Alt Text](Images/NoticesStep5-7.png)
 
-![Alt Text](./Images/NoticesStep5-8.png)
+![Alt Text](Images/NoticesStep5-8.png)
 
-![Alt Text](./Images/NoticesStep5-9.png)
+![Alt Text](Images/NoticesStep5-9.png)
 
-![Alt Text](./Images/NoticesStep5-10.png)
+![Alt Text](Images/NoticesStep5-10.png)
 
-![Alt Text](./Images/NoticesStep5-11.png)
+![Alt Text](Images/NoticesStep5-11.png)
 
-![Alt Text](./Images/NoticesStep5-12.png)
+![Alt Text](Images/NoticesStep5-12.png)
 
-![Alt Text](./Images/NoticesStep5-13.png)
+![Alt Text](Images/NoticesStep5-13.png)
 
-![Alt Text](./Images/NoticesStep5-14.png)
+![Alt Text](Images/NoticesStep5-14.png)
 
-![Alt Text](./Images/NoticesStep5-15.png)
+![Alt Text](Images/NoticesStep5-15.png)
         
 - You can also see the activity of your Notice in the Activity tab.
 
-![Alt Text](./Images/NoticesStep5-16.png)
+![Alt Text](Images/NoticesStep5-16.png)
                 
 - To delete a notice, locate the notice you want to delete and click on the "Delete" button. A confirmation message will appear asking if you're sure you want to delete the notice. Click "Yes" to confirm, and the notice will be removed from the system.
 
-![Alt Text](./Images/NoticesStep5-17.png)
+![Alt Text](Images/NoticesStep5-17.png)
 
-![Alt Text](./Images/NoticesStep5-18.png)
+![Alt Text](Images/NoticesStep5-18.png)
 
-![Alt Text](./Images/NoticesStep5-19.png)
+![Alt Text](Images/NoticesStep5-19.png)
 
 - It's important to note that once a notice is deleted, it cannot be retrieved, so make sure you really want to delete it before confirming. Additionally, only the user who created the notice or has admin privileges can edit or delete it.
 
@@ -792,9 +792,9 @@ By following these guidelines, users can make the most of the messaging feature 
 
 To access the message chatting feature, log in to your account in FinStackk and you’ll be directed to dashboard/homepage and then navigate to the Messages option located on the side menu bar. Click on the option to open the message chatting window. This will take you to the main message chat window where you can start a conversation, if you are using the messaging feature for the first time.
 
-![Alt Text](./Images/MessagesStep1-1.png)
-              
-![Alt Text](./Images/MessagesStep1-2.png)
+![Alt Text](Images/MessagesStep1-1.png)
+  
+![Alt Text](Images/MessagesStep1-2.png)
 
 - In addition to text messages, you may also have the option to upload files to your messages. This can be useful for sharing documents, spreadsheets, or other important files with your colleagues. You may also have the ability to filter your messages based on different categories, such as messages, documents, workdocs, or all. This can help you quickly find the information you need in your message history.
 
@@ -802,35 +802,35 @@ To access the message chatting feature, log in to your account in FinStackk and 
 
 - To send a message, type the message in the text box located at the bottom of the chat window and press enter or click on the send button.
 
-![Alt Text](./Images/MessagesStep2-1.png)
+![Alt Text](Images/MessagesStep2-1.png)
 
-![Alt Text](./Images/MessagesStep2-2.png)
+![Alt Text](Images/MessagesStep2-2.png)
 
-![Alt Text](./Images/MessagesStep2-3.png)
+![Alt Text](Images/MessagesStep2-3.png)
 
 - In addition to sending text messages, you can also use the message chatting feature to upload files such as documents, images. To upload a file, click on the "Attach File" icon and select the file from your computer.
 
-![Alt Text](./Images/MessagesStep2-4.png)             
+![Alt Text](Images/MessagesStep2-4.png)             
 
 - If you want to send a file, click on the "Attach File" icon, you will then be prompted to a new dialog box naming Upload Docs and then select the file from your device and click on Upload button if not Cancel button. Note that the file size is restricted to 500MB and any file type is allowed. 
 
-![Alt Text](./Images/MessagesStep2-5.png)   
+![Alt Text](Images/MessagesStep2-5.png)   
 
-![Alt Text](./Images/MessagesStep2-6.png)   
+![Alt Text](Images/MessagesStep2-6.png)   
 
 - You will be provided with options of Category to determine where this file falls into and you can choose accordingly.
 
-![Alt Text](./Images/MessagesStep2-7.png)   
-                        
-![Alt Text](./Images/MessagesStep2-8.png)   
+![Alt Text](Images/MessagesStep2-7.png)   
+            
+![Alt Text](Images/MessagesStep2-8.png)   
 
 - After clicking on the Upload button the document will appear in the chat history with a successful upload message.
 
-![Alt Text](./Images/MessagesStep2-9.png)
+![Alt Text](Images/MessagesStep2-9.png)
 
 - As a financial website, we encourage our users to communicate using clear and concise language when sending messages in the Message Chat Box. However, we also understand that sometimes it may be necessary to use special characters or symbols to convey certain information. Therefore, our chat box supports the use of special characters and symbols such as dollar signs ($), percentage symbols (%), and forward slashes (/) among others.
 
-![Alt Text](./Images/MessagesStep2-10.png)             
+![Alt Text](Images/MessagesStep2-10.png)             
 
 - Please note that while the use of special characters is allowed, we advise our users to use them sparingly and only when necessary. Additionally, it is important to ensure that the special characters used do not alter the intended meaning of the message being sent.
 
@@ -838,59 +838,59 @@ To access the message chatting feature, log in to your account in FinStackk and 
 
 - Users can filter messages by clicking on the filter button located on the top right corner of the chat window. The filter options include messages, documents, workdocs, and all. Selecting a filter option will only display the relevant messages, documents, or workdocs.
 
-![Alt Text](./Images/MessagesStep3-1.png)   
+![Alt Text](Images/MessagesStep3-1.png)   
 
-![Alt Text](./Images/MessagesStep3-2.png)
-                                                                       
+![Alt Text](Images/MessagesStep3-2.png)
+
 - If you want to see only text messages in your chat history, click on Filter icon and then on Messages Option.
 
-![Alt Text](./Images/MessagesStep3-3.png)
+![Alt Text](Images/MessagesStep3-3.png)
 
-![Alt Text](./Images/MessagesStep3-4.png)
+![Alt Text](Images/MessagesStep3-4.png)
 
 - Similary, if you only want see documents then click on the Filter icon and on Documents option.
 
-![Alt Text](./Images/MessagesStep3-5.png)
+![Alt Text](Images/MessagesStep3-5.png)
 
-![Alt Text](./Images/MessagesStep3-6.png)
+![Alt Text](Images/MessagesStep3-6.png)
 
 - If there are no Documents/Messages/WorkDocs when one of the option is selected you’ll see an empty chat page. “All” option in the Filter icon shows you everything in your chat history.
 
-![Alt Text](./Images/MessagesStep3-7.png)
-         
-![Alt Text](./Images/MessagesStep3-8.png)
-         
-![Alt Text](./Images/MessagesStep3-9.png)
-          
-![Alt Text](./Images/MessagesStep3-10.png)
+![Alt Text](Images/MessagesStep3-7.png)
+
+![Alt Text](Images/MessagesStep3-8.png)
+
+![Alt Text](Images/MessagesStep3-9.png)
+
+![Alt Text](Images/MessagesStep3-10.png)
            
 **Step 4:** Editing or Deleting a Message 
         
 Users can edit or delete a message by hovering over the message and clicking on the edit or delete button. However, once a message is deleted, it cannot be retrieved.
 
-![Alt Text](./Images/MessagesStep4-1.png)
-                                           
+![Alt Text](Images/MessagesStep4-1.png)
+
 - Editing or deleting a message is a simple process in the message chatting feature. If you want to edit a message you have already sent, simply hover over the message and click on the "Edit" icon. This will allow you to make any necessary changes to the message in a new dialog box known as “Edit Message”. Once you have made the changes, click on the "Update" button to update the message. Then you’ll receive a successful update message with an edited message in your chat box.
-          
-![Alt Text](./Images/MessagesStep4-2.png)
 
-![Alt Text](./Images/MessagesStep4-3.png)   
+![Alt Text](Images/MessagesStep4-2.png)
 
-![Alt Text](./Images/MessagesStep4-4.png)
-                       
-![Alt Text](./Images/MessagesStep4-5.png)
-                     
-![Alt Text](./Images/MessagesStep4-6.png)
-            
+![Alt Text](Images/MessagesStep4-3.png)   
+
+![Alt Text](Images/MessagesStep4-4.png)
+
+![Alt Text](Images/MessagesStep4-5.png)
+
+![Alt Text](Images/MessagesStep4-6.png)
+
 - If you want to delete a message, hover over the message and click on the "Delete" icon. You will be prompted to confirm that you want to delete the message. Once you confirm, the message will be deleted from the conversation history with a successfully deleted message and cannot be recovered.
 
-![Alt Text](./Images/MessagesStep4-7.png)
+![Alt Text](Images/MessagesStep4-7.png)
 
-![Alt Text](./Images/MessagesStep4-8.png)
+![Alt Text](Images/MessagesStep4-8.png)
 
-![Alt Text](./Images/MessagesStep4-9.png)
-                                             
-![Alt Text](./Images/MessagesStep4-10.png)
+![Alt Text](Images/MessagesStep4-9.png)
+
+![Alt Text](Images/MessagesStep4-10.png)
 
 - When deleting a message, it is important to note that the message may still be accessible through backups or other means. Therefore, it is important to use discretion when sending messages and only share information that is appropriate and authorized for the intended audience.
 
@@ -914,13 +914,13 @@ Following the instructions mentioned below you can make the best use of the Docu
 
 - To access the documents feature, you need to log in to your account which results in opening dashboard and then navigate to the Documents section which is available as an option in the side menu of the dashboard/homepage.
 
-![Alt Text](./Images/DocStep1-1.png)         
+![Alt Text](Images/DocStep1-1.png)         
 
-![Alt Text](./Images/DocStep1-2.png)  
+![Alt Text](Images/DocStep1-2.png)  
 
 - Once you have accessed the documents page, you will be able to see the Documents section.
 
-![Alt Text](./Images/DocStep1-3.png)
+![Alt Text](Images/DocStep1-3.png)
 
 - From the documents page, you can also perform various actions such as uploading new files and adding new folders, renaming files, and deleting files or folders. These actions can help you organize and manage your documents effectively. You can also search your Documents using the Search Bar designed exclusively for the Document section.
 
@@ -928,21 +928,21 @@ Following the instructions mentioned below you can make the best use of the Docu
 
 - To upload a file, you can simply click on the "Upload File" icon and select the file you wish to upload from your device. 
 
-![Alt Text](./Images/DocStep2-1.png)           
+![Alt Text](Images/DocStep2-1.png)           
 
 - When you click on the "Upload File" icon, a tab will open where you can select or drop the file you want to upload from your device. You can browse your computer's file system to find the file you want to upload and can also select a Category in which you want your file to be. It’s important to note that the file size should not exceed 500MB. Once you have selected the file, you can click on the "Upload" button to start the upload process. 
 
-![Alt Text](./Images/DocStep2-2.png)                            
+![Alt Text](Images/DocStep2-2.png)                            
 
-![Alt Text](./Images/DocStep2-3.png)       
+![Alt Text](Images/DocStep2-3.png)       
 
 - After uploading a file, you will receive a successfully uploaded message and then you can see your file in the Documents section. The time it takes to upload the file will depend on the size of the file (should be ≤ 500MB) and the speed of your internet connection. 
  
-![Alt Text](./Images/DocStep2-4.png)                        
+![Alt Text](Images/DocStep2-4.png)                        
 
-![Alt Text](./Images/DocStep2-5.png)   
-              
-![Alt Text](./Images/DocStep2-6.png)
+![Alt Text](Images/DocStep2-5.png)   
+
+![Alt Text](Images/DocStep2-6.png)
 
 - Any types of files can be uploaded. But make sure to follow the FinStackk guidelines and restrictions when uploading files.
 
@@ -950,21 +950,21 @@ Following the instructions mentioned below you can make the best use of the Docu
 
 - Adding a folder is very easy, except that you will create a new folder in the Documents. To add a folder, you will need to click on the "Add Folder" icon, which is located next to the "Upload File" icon.                              
 
-![Alt Text](./Images/DocStep3-1.png)
+![Alt Text](Images/DocStep3-1.png)
 
 - When you click on the "Add Folder" icon, a tab will open up prompting you to give a Name to the folder you want to add and its Category.
 
-![Alt Text](./Images/DocStep3-2.png)
+![Alt Text](Images/DocStep3-2.png)
 
-![Alt Text](./Images/DocStep3-3.png)       
+![Alt Text](Images/DocStep3-3.png)       
 
 - Once you have named the folder and with the category chosen, you can click on “Add” button. Your folder will be created with a successfully created message and you can see it the Document section.
 
-![Alt Text](./Images/DocStep3-4.png)
+![Alt Text](Images/DocStep3-4.png)
 
-![Alt Text](./Images/DocStep3-5.png)
+![Alt Text](Images/DocStep3-5.png)
 
-![Alt Text](./Images/DocStep3-6.png)
+![Alt Text](Images/DocStep3-6.png)
 
 **Step 4:** Documents Actions
 
@@ -972,53 +972,53 @@ After you have uploaded files or added new folders to the documents feature, you
 
 - If a file is uploaded, you may be able to share, download, edit and delete your file.
 
-![Alt Text](./Images/DocStep4-1.png)
+![Alt Text](Images/DocStep4-1.png)
 
-![Alt Text](./Images/DocStep4-2.png)
-                
-![Alt Text](./Images/DocStep4-3.png)
+![Alt Text](Images/DocStep4-2.png)
+
+![Alt Text](Images/DocStep4-3.png)
  
 - In the share option, a link will be generated then you can copy and share with others. This link will allow them to access the document that you have shared with them. Please note that you should only share links to documents with people who you trust, as the link provides access to the entire file.
 
-![Alt Text](./Images/DocStep4-4.png)                     
+![Alt Text](Images/DocStep4-4.png)                     
 
 - You have the second option to download the file to your device by clicking on the download button. This will save a copy of the file to your computer or mobile device, which you can then access even if you are not connected to the internet.
 
 - The third option is the edit button, which will allow you to change the name and category of the file. This can be useful if you have uploaded a file with the wrong name or if you want to move it to a different category. You will receive a successful message after you’ve uploaded the edited file and you can see your document with the edited name or category in the Document section.
 
-![Alt Text](./Images/DocStep4-5.png)
+![Alt Text](Images/DocStep4-5.png)
 
-![Alt Text](./Images/DocStep4-6.png)
+![Alt Text](Images/DocStep4-6.png)
 
-![Alt Text](./Images/DocStep4-7.png)
+![Alt Text](Images/DocStep4-7.png)
                     
 - The last option is the delete button, which you can use to remove the file from your documents. It will ask for your confirmation before deleting the file. After deleting the file you’ll get a successfully deleted message and you can also check if it’s deleted or not in your Document section. Be careful when using this option, as it cannot be undone and you may lose important files.
 
-![Alt Text](./Images/DocStep4-8.png) 
+![Alt Text](Images/DocStep4-8.png) 
 
-![Alt Text](./Images/DocStep4-9.png)
+![Alt Text](Images/DocStep4-9.png)
 
 - Unlike the options in Upload File, when you add a folder you may only able to edit and delete the folder.
 
-![Alt Text](./Images/DocStep4-10.png)   
+![Alt Text](Images/DocStep4-10.png)   
 
-![Alt Text](./Images/DocStep4-11.png)           
+![Alt Text](Images/DocStep4-11.png)           
 
-![Alt Text](./Images/DocStep4-12.png)
-                                                    
+![Alt Text](Images/DocStep4-12.png)
+
 - If you want to change the Category of the folder, you can choose Edit Folder option. You’ll be prompted to Edit Folder dialog box, where you can change the category. After editing click on Update button, then you will receive a successfully updated message and can see your edited folder in the Document section. Note that you can only change Category but not the Name of the folder.
 
-![Alt Text](./Images/DocStep4-13.png)
+![Alt Text](Images/DocStep4-13.png)
 
-![Alt Text](./Images/DocStep4-14.png)
+![Alt Text](Images/DocStep4-14.png)
 
-![Alt Text](./Images/DocStep4-15.png)
+![Alt Text](Images/DocStep4-15.png)
 
 - Similar to the delete option in the Upload File feature, you’ll have the same function in Add Folder feature, where you can use to remove the folder from your documents. A confirmation message will appear asking you to confirm the deletion. If you're sure you want to delete the folder, click "yes" to proceed. You’ll receive a message stating folder is deleted successfully. Once the folder is deleted, it will no longer appear in your documents list.
 
-![Alt Text](./Images/DocStep4-16.png)
+![Alt Text](Images/DocStep4-16.png)
 
-![Alt Text](./Images/DocStep4-17.png)
+![Alt Text](Images/DocStep4-17.png)
                         
 In conclusion, the Documents feature is a valuable tool for organizing and sharing files. With the ability to upload files and create folders, as well as edit, delete, share, and download them, it provides a convenient and efficient way to store and access important documents. Whether you are working on a team or managing your own finances, the Documents feature can help you stay organized and on top of your files. So, make the most of this feature and streamline your workflow today. By leveraging this feature, users can streamline communication and collaboration, while also ensuring that sensitive information is kept secure.
                 
@@ -1027,11 +1027,11 @@ Remember to also follow any guidelines or policies provided by your organization
 
 ## **4. Management**
 
- Management is a fundamental component of any organization, from small businesses to large corporations. It involves planning, organizing, coordinating, and directing resources to achieve specific goals and objectives. Effective management is essential for businesses to operate efficiently and achieve success, and it requires a range of skills and tools to be effective. Management tools are designed to help businesses of all sizes streamline their operations, manage their resources, and achieve their objectives. 
+Management is a fundamental component of any organization, from small businesses to large corporations. It involves planning, organizing, coordinating, and directing resources to achieve specific goals and objectives. Effective management is essential for businesses to operate efficiently and achieve success, and it requires a range of skills and tools to be effective. Management tools are designed to help businesses of all sizes streamline their operations, manage their resources, and achieve their objectives. 
 
 ### **4.1. User Management**
 
- User management is a crucial aspect for any organization, as it involves managing the access and permissions of users who have registered on the platform. User management is typically handled by an administrator who has access to all user accounts and can assign different levels of permissions and access to different users. It allows the administrator to create and manage user accounts, grant or restrict access to certain features, and set user roles and permissions. This allows for greater control over who can access sensitive information or perform certain actions within the system. A well-designed user management system ensures that users have the appropriate level of access to perform their tasks while maintaining the security and integrity. 
+User management is a crucial aspect for any organization, as it involves managing the access and permissions of users who have registered on the platform. User management is typically handled by an administrator who has access to all user accounts and can assign different levels of permissions and access to different users. It allows the administrator to create and manage user accounts, grant or restrict access to certain features, and set user roles and permissions. This allows for greater control over who can access sensitive information or perform certain actions within the system. A well-designed user management system ensures that users have the appropriate level of access to perform their tasks while maintaining the security and integrity. 
  
 User management refers to the processes and tools used to manage user accounts and permissions within the system. This includes creating new user accounts, updating user information, resetting passwords, and assigning different levels of access to different users.
 
@@ -1048,63 +1048,63 @@ In this user manual, we will go over the various features and functions of the u
 
 - **Accessing User Management:** To access the user management module, log in as an administrator and navigate to the User section in the Admin dropdown on the side menu.
 
-![Alt Text](./Images/UM1.png)
+![Alt Text](Images/UM1.png)
 
-![Alt Text](./Images/UM2.png)
+![Alt Text](Images/UM2.png)
 
 - **Adding New Users:** To add a new user, click on the "Invite User" button and fill in the required information, such as the Email address, First Name, Last Name, Role.
 
-![Alt Text](./Images/UM3.png)
+![Alt Text](Images/UM3.png)
 
 - **Managing User Roles:** User roles determine the level of access and permissions for each user. The system may have pre-defined roles, such as "Admin" or "User," or you may be able to create custom roles. To manage user roles, navigate to the user roles section in the admin panel and create or edit roles as necessary.
 
-![Alt Text](./Images/UM4.png)
+![Alt Text](Images/UM4.png)
 
 - **Editing User Role:** To edit a user's role, locate the User in the user list and click on Action section. You should be able to edit their First Name, Last Name, Role.
 
-![Alt Text](./Images/UM5.png)
+![Alt Text](Images/UM5.png)
 
 - **Forgot Password:** Forgetting your password can be a frustrating experience, but we have a "Forgot Password" option to help you reset your password and regain access to your account.
 
- To use this feature, click on the "Forgot Password" button located on the login page. You will then be prompted to enter the email address associated with your account in a new Forgot Password page. After entering your email address and clicking on “Send Reset Link” button, you will receive an email with instructions on how to reset your password. Follow the instructions carefully and create a new password for your account.
+To use this feature, click on the "Forgot Password" button located on the login page. You will then be prompted to enter the email address associated with your account in a new Forgot Password page. After entering your email address and clicking on “Send Reset Link” button, you will receive an email with instructions on how to reset your password. Follow the instructions carefully and create a new password for your account.
 
-![Alt Text](./Images/UMFP1.png)
+![Alt Text](Images/UMFP1.png)
 
-![Alt Text](./Images/UMFP2.png)
-                               
+![Alt Text](Images/UMFP2.png)
+
 ![Alt Text](./Images/UMFP3.png)
                                
-![Alt Text](./Images/UMFP4.png)
-                               
+![Alt Text](Images/UMFP4.png)
+
 It is important to note that the password reset link sent to your email address will be valid for a limited amount of time. Therefore, it is recommended that you reset your password as soon as possible after receiving the email.
-                           
-![Alt Text](./Images/UMFP5.png)
+
+![Alt Text](Images/UMFP5.png)
 
 If you click on the Reset Password link which is sent to your respective email id, you will be directed to a page where you can set your new password. When creating a password, ensure that it is strong and not easily guessable. A strong password typically contains a mix of uppercase and lowercase letters, numbers, and symbols. It is also recommended that you avoid using common words or phrases and use a unique password for each of your accounts to enhance the security of your information and then click on “Submit” button.
                          
-![Alt Text](./Images/UMFP6.png)
+![Alt Text](Images/UMFP6.png)
 
- ![Alt Text](./Images/UMFP7.png)
+![Alt Text](Images/UMFP7.png)
 
- If you do not receive the password reset email, make sure to check your spam or junk folder. If you still do not see the email, contact the customer support team for further assistance. 
+If you do not receive the password reset email, make sure to check your spam or junk folder. If you still do not see the email, contact the customer support team for further assistance. 
 
- After resetting the Password, you can click “Sign In” button on the Login page with your correct Email Id and new Password.
-            
-![Alt Text](./Images/UMFP8.png)
+After resetting the Password, you can click “Sign In” button on the Login page with your correct Email Id and new Password.
+ 
+![Alt Text](Images/UMFP8.png)
 
- If you are having trouble accessing your account or resetting your password, it's recommended that you contact the customer support team of the website or application for further assistance. They will be able to guide you through the process and help you regain access to your account.
+If you are having trouble accessing your account or resetting your password, it's recommended that you contact the customer support team of the website or application for further assistance. They will be able to guide you through the process and help you regain access to your account.
 
 - **User Activity Logs:** The system may keep a log of user activity, such as last login. As an administrator, you should be able to view these logs to monitor user activity and ensure security.  We also offer two-factor authentication options, which can add an extra layer of security to the login process.
 
-![Alt Text](./Images/UM6.png)
+![Alt Text](Images/UM6.png)
 
-![Alt Text](./Images/UM7.png)
+![Alt Text](Images/UM7.png)
 
 - **User Support:** Users may encounter issues or have questions about the system. As an administrator, you should be prepared to provide support and troubleshoot issues as needed. This may include offering a help desk or ticketing system for users to submit requests or issues.
 
 Finally, user management can involve providing training and resources to users to help them effectively use the financial website and ensure compliance with relevant regulations and best practices. This might include online tutorials, user guides, or webinars. Overall, a well-designed user management system can help ensure the security and integrity by controlling access to sensitive information and preventing unauthorized activity.
 
- In conclusion, user management is an essential component of FinStackk that wants to ensure proper security and control over the access to the platform. Remember to always keep your user information up to date and to regularly review and update your user management policies to ensure continued compliance and security.
+In conclusion, user management is an essential component of FinStackk that wants to ensure proper security and control over the access to the platform. Remember to always keep your user information up to date and to regularly review and update your user management policies to ensure continued compliance and security.
 
 ### **4.2. Organization Management**
 
@@ -1242,4 +1242,4 @@ Thank you for choosing our FinStackk for your financial needs. We value your bus
 
 We hope that this user manual has been helpful in guiding you through our platform's features and functionality and if you have any additional questions or feedback, please don't hesitate to reach out to our support team.
 
-![Alt Text](./Images/End.jpg)
+![Alt Text](Images/End.jpg)
