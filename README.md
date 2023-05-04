@@ -1,6 +1,6 @@
 ![Alt Text](Images/Logo.png)
 
-# ** FinStackk User Manual**
+# **FinStackk User Manual**
 
 ## **1. Introduction**
 
