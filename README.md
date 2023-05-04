@@ -1066,7 +1066,7 @@ In this user manual, we will go over the various features and functions of the u
 
 - **Forgot Password:** Forgetting your password can be a frustrating experience, but we have a "Forgot Password" option to help you reset your password and regain access to your account.
 
-To use this feature, click on the "Forgot Password" button located on the login page. You will then be prompted to enter the email address associated with your account in a new Forgot Password page. After entering your email address and clicking on “Send Reset Link” button, you will receive an email with instructions on how to reset your password. Follow the instructions carefully and create a new password for your account.
+- To use this feature, click on the "Forgot Password" button located on the login page. You will then be prompted to enter the email address associated with your account in a new Forgot Password page. After entering your email address and clicking on “Send Reset Link” button, you will receive an email with instructions on how to reset your password. Follow the instructions carefully and create a new password for your account.
 
 ![Alt Text](Images/UMFP1.png)
 
@@ -1076,19 +1076,19 @@ To use this feature, click on the "Forgot Password" button located on the login 
                                
 ![Alt Text](Images/UMFP4.png)
 
-It is important to note that the password reset link sent to your email address will be valid for a limited amount of time. Therefore, it is recommended that you reset your password as soon as possible after receiving the email.
+- It is important to note that the password reset link sent to your email address will be valid for a limited amount of time. Therefore, it is recommended that you reset your password as soon as possible after receiving the email.
 
 ![Alt Text](Images/UMFP5.png)
 
-If you click on the Reset Password link which is sent to your respective email id, you will be directed to a page where you can set your new password. When creating a password, ensure that it is strong and not easily guessable. A strong password typically contains a mix of uppercase and lowercase letters, numbers, and symbols. It is also recommended that you avoid using common words or phrases and use a unique password for each of your accounts to enhance the security of your information and then click on “Submit” button.
+- If you click on the Reset Password link which is sent to your respective email id, you will be directed to a page where you can set your new password. When creating a password, ensure that it is strong and not easily guessable. A strong password typically contains a mix of uppercase and lowercase letters, numbers, and symbols. It is also recommended that you avoid using common words or phrases and use a unique password for each of your accounts to enhance the security of your information and then click on “Submit” button.
                          
 ![Alt Text](Images/UMFP6.png)
 
 ![Alt Text](Images/UMFP7.png)
 
-If you do not receive the password reset email, make sure to check your spam or junk folder. If you still do not see the email, contact the customer support team for further assistance. 
+- If you do not receive the password reset email, make sure to check your spam or junk folder. If you still do not see the email, contact the customer support team for further assistance. 
 
-After resetting the Password, you can click “Sign In” button on the Login page with your correct Email Id and new Password.
+- After resetting the Password, you can click “Sign In” button on the Login page with your correct Email Id and new Password.
  
 ![Alt Text](Images/UMFP8.png)
 
