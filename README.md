@@ -77,7 +77,7 @@ Once you have reviewed our terms and policies and are ready to proceed, you can 
 
 **Step 1:** Navigate to the Create an Account Page and Locate the Registration Form
 
-![Alt Text](./Images/Step1.png)
+![Alt Text](Images/Step1.png)
 
 **Step 2:** Fill in the Company Name
 
