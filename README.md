@@ -1,4 +1,4 @@
-![Alt Text](Images/Log.png)
+![Alt Text](Images/Logo.png)
 
 # **FinStackk User Manual**
 
