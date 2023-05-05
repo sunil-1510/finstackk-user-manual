@@ -12,7 +12,7 @@ FinStackk’s user manual is designed to provide you with the tools and resource
 
 With our user-friendly interface and intuitive design, you can easily navigate our platform and access the tools you need to manage your finances with confidence. Whether you're a small business owner, freelancer, or individual looking to stay on top of your finances, our website has everything you need to succeed.
 
-In this user manual, you'll find detailed instructions and guides for each of our key features:
+In this user manual, you'll find detailed instructions and guides for each of our key features.
 
 - **User Registration:** How to register with our website.
 - **Login:** How to get access to your account via login.
