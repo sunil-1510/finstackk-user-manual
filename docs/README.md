@@ -2,7 +2,7 @@
 
 # **FinStackk User Manual**
 
-## **1. Introduction**
+## **1. Introductio**
 
 Welcome to the User Manual of FinStackk. This guide will provide you with comprehensive information on how to use our website, including its various features and functions. Whether you are a new user or an existing one, this user manual will help you navigate through our website and take advantage of all its offerings. We have designed this guide to be simple and easy to follow, with step-by-step instructions and visual aids to help you along the way. We hope that this user manual will be a valuable resource for you and help you make the most out of our FinStackk.
 
