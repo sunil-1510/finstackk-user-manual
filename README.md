@@ -8,7 +8,7 @@ Welcome to the User Manual of FinStackk. This guide will provide you with compre
 
 ### **1.1. Overview**
 
-FinStackk’s user manual is designed to provide you with the tools and resources you need to manage your finances effectively. Our website offers a wide range of features and benefits, including integrations with popular accounting software, customizable reports, task and compliance management, and secure messaging and document sharing.
+FinStackk’s user manual is designed to provide you with the tools and resources you need to manage your finances effectively. Our website offers a wide range of features and benefits, including integrations with popular accounting software, customizable reports, graphical insights, task and compliance management, and secure messaging and document sharing.
 
 With our user-friendly interface and intuitive design, you can easily navigate our platform and access the tools you need to manage your finances with confidence. Whether you're a small business owner, freelancer, or individual looking to stay on top of your finances, our website has everything you need to succeed.
 
@@ -17,6 +17,7 @@ In this user manual, you'll find detailed instructions and guides for each of ou
 - **User Registration:** How to register with our website.
 - **Login:** How to get access to your account via login.
 - **Integrations:** How to connect our website with other applications and services.
+- **Insights:** How to generate and view graphical representation of data.
 - **Reports:** How to generate and view financial reports.
 - **Tasks:** How to create, assign, and manage tasks related to your finances.
 - **Compliance:** How to manage compliance requirements and deadlines.
@@ -35,6 +36,7 @@ We hope this user manual will help you navigate our FinStackk and take full adva
 FinStackk provides a range of key features and benefits to help you manage your finances efficiently and effectively. From compliance management to task tracking, our platform has everything you need to stay on top of your financial affairs. Here we will provide you with a comprehensive overview of the key features and benefits of FinStackk, as well as instructions on how to use them.
 
 - **Integrations:** This feature allows you to connect different financial tools and data sources in one platform, making it easier to manage their finances and make informed decisions.
+- **Insights:** Comprehensive insights like expenses, cash flows, sales, and customer data are presented in graphical format, making it easier to understand and analyze your financial performance.
 - **Reports:** Customizable reports that provide valuable insights into financial performance, including profit and loss statements, balance sheets, and cash flow reports.
 - **Tasks:** The ability to create and assign tasks related to financial management, such as invoice creation, payment processing, and payroll management.
 - **Compliance:** Compliance features can help you ensure that they are meeting legal and regulatory requirements related to their finances and investments.
@@ -76,26 +78,28 @@ Before you begin the registration process, we recommend that you review our term
 Once you have reviewed our terms and policies and are ready to proceed, you can begin the registration process by filling out the required fields on the registration form. These fields will include information such as your company name, first name, last name, email address, and password. Please make sure that you fill out all the required fields accurately and completely, as any errors or omissions could result in delays or difficulties in accessing our platform.
 
 **Step 1:** Navigate to the Create an Account Page and Locate the Registration Form
-
+                                                    
 ![Alt Text](Images/Step1.png)
+                                                            
+**Step 2:** Fill in the Company Name 
 
-**Step 2:** Fill in the Company Name
-
-The "Company Name" field is a required field, which means that it must be completed before you can proceed with the registration process. Please ensure that you enter a valid company name, as this will be used to identify your company on our platform.
+- The "Company Name" field is a required field, which means that it must be completed before you can proceed with the registration process. Please ensure that you enter a valid company name, as this will be used to identify your company on our platform.
 
 ![Alt Text](Images/Step2-1.png)
 
 ![Alt Text](Images/Step2-2.png)
 
 - If you are an individual user, you can enter your name or any other identifier that you wish to use as your company name. However, if you are registering on behalf of a business or organization, please enter the legal name of your company in this field.
-- The maximum length for the "Company Name" field is 150 letters, which does not allow any punctuation marks or other special characters. If your company name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
+
+- The maximum length for the "Company Name" field is 150 letters, which does not welcome any punctuation marks, and other special characters. If your company name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
 
 ![Alt Text](Images/Step2-3.png)
 
 - Please make sure that you spell your company name correctly and without any typos. Any errors or misspellings could result in delays or difficulties in identifying your company on our platform.
+
 - Once you have entered your company name in the "Company Name" field, you can proceed to the next step of the registration process by filling out the remaining required fields, including your first name, last name, email address, and password.
 
-![Alt Text](Images/Step2-4.png)
+![Alt Text](Images/Step2-4.png)                                 
 
 **Step 3:** Fill in the First Name
 
@@ -103,7 +107,7 @@ The "Company Name" field is a required field, which means that it must be comple
 
 ![Alt Text](Images/Step3-1.png)
 
-- The maximum length for the "First Name" field is 150 letters, which does not accept any punctuation marks, and other special characters. If your first name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
+- The maximum length for the "First Name" field is 150 letters, which does not accepts any punctuation marks, and other special characters. If your first name exceeds this limit, please try to abbreviate or shorten it to fit within the required limit.
 
 ![Alt Text](Images/Step3-2.png)
 
@@ -114,7 +118,7 @@ The "Company Name" field is a required field, which means that it must be comple
 - Once you have entered your first name in the "First Name" field, you can proceed to the next step of the registration process by filling out the remaining required fields, including your last name, email address, and password.
 
 ![Alt Text](Images/Step3-3.png)
-
+                     
 **Step 4:** Fill in the Last Name
 
 - The "Last Name" field is a required field, and you must enter your last name correctly to complete the registration process. Please ensure that you enter your last name without any typos or errors to avoid any issues with your account in the future.
@@ -131,69 +135,105 @@ The "Company Name" field is a required field, which means that it must be comple
 
 - Once you have entered your last name in the "Last Name" field, you can proceed to the next step of the registration process by filling out the remaining required fields, including your email address, password, and confirmation of the password.
 
-![Alt Text](Images/Step4-3.png)
+![Alt Text](Images/Step4-3.png)   
 
-**Step 5:** Fill in the Email Id
+**Step 5:** Select Plan Category
 
-- The "Email Id" field is a required field, and you must enter a valid email address to complete the registration process. Please ensure that the email address you enter is accurate and valid as it will be used to send important communication and updates.
+- The "Select Plan Category" step in the signup process allows you to choose the category that aligns with your business goals and requirements. 
 
 ![Alt Text](Images/Step5-1.png)
 
+- The available plan categories typically reflect different stages or objectives of business growth, such as "Run and Grow Your Business." 
+
+- Consider your business size, industry, budget, and specific needs when selecting a plan category. This ensures that you have access to the right tools and resources to support your business growth and success.
+
 ![Alt Text](Images/Step5-2.png)
+
+- Once you have selected a plan category, you can proceed to the next step of choosing a specific plan within that category.
+
+**Step 6:** Select Plan
+
+- The "Select Plan" allows you to choose a suitable plan based on your business needs.
+
+![Alt Text](Images/Step6-1.png)
+                                    
+- Consider your budget and the value you expect to receive from the plan when making your selection. Some plans may offer the flexibility to upgrade or downgrade as your business grows. 
+
+- From the available plans within your chosen category, select the plan that suits your business needs. The plans may have different features, pricing, and benefits.
+
+- The available plans could include options like "Growth $499/month," "Premium $799/month," or "Essentials $299/month."
+
+![Alt Text](Images/Step6-2.png)
+          
+- If you would like to see more plan details, click on the “Show More” link. This will expand the detailed plan list for you to choose from. Different plan options are available, each with its own set of features, pricing, and benefits. Carefully review the details of each plan, including its functionality, scalability, pricing, and available support.
+
+![Alt Text](Images/Step6-3.png)
+    
+- Once you have selected a plan, click on it to proceed to the next step of the registration process.
+
+![Alt Text](Images/Step6-4.png)
+                                  
+**Step 7:** Fill in the Email Id
+
+- The "Email Id" field is a required field, and you must enter a valid email address to complete the registration process. Please ensure that the email address you enter is accurate and valid as it will be used to send important communication and updates.
+
+![Alt Text](Images/Step7-1.png)
+
+![Alt Text](Images/Step7-2.png)
 
 - It is recommended that you use a personal email address if you are an individual user and a work email address if you are representing your company.
 
 - Please ensure that you enter your email address correctly to avoid any issues with account verification or communication with our support team. If you enter an incorrect email address, you may not be able to access your account or receive important communication from us.
 
-- Please make sure that you have access to the email address you provide for the Two Factor Authentication, where it is essential when you Login into your account after successful registration.
+- Please make sure that you have access to the email address you provide for the Two Factor Authentication, where it is essential when you Login into your account after successful registration. 
 
 - Once you have entered your email address in the "Email Id" field, please confirm that it is correct before proceeding to the next step of the registration process by filling out the remaining required fields, including your password and confirmation of the password.
 
-![Alt Text](Images/Step5-3.png)
+![Alt Text](Images/Step7-3.png)                          
 
-**Step 6:** Fill in the Password
+**Step 8:** Fill in the Password
 
 - The "Password" field is a required field, and you must create a strong and secure password to protect your account from unauthorized access. Please ensure that your password meets our security standards to avoid any issues with account security in the future.
 
-![Alt Text](Images/Step6-1.png)
+![Alt Text](Images/Step8-1.png)
+                 
+- A strong password should be at least 6 characters long and include a mix of uppercase and lowercase letters, numbers, and symbols. Avoid using common words or phrases, as they are easier for guess.
 
-- A strong password should be at least 6 characters long and include a mix of uppercase and lowercase letters, numbers, and symbols. Avoid using common words or phrases, as they are easier to guess.
-
-![Alt Text](Images/Step6-2.png)
+![Alt Text](Images/Step8-2.png)
 
 - Please ensure that you enter your password correctly and securely, and do not share your password with anyone. We will never ask you for your password, and if you receive any suspicious communication asking for your password, please report it to our support team immediately.
 
 - If you forget your password, you can reset it by clicking on the "Forgot Password" link on the login page. You will need to provide your email address to reset your password.
 
-![Alt Text](Images/Step6-3.png)
+![Alt Text](Images/Step8-3.png)
 
 - Once you have created a strong and secure password, please confirm that it is correct before proceeding to the next step of the registration process by filling out the remaining required fields, including confirmation of the password and agreeing to the terms and policies.
 
-![Alt Text](Images/Step6-4.png)
-
-**Step 7:** Re-enter the Password
+![Alt Text](Images/Step8-4.png)
+                   
+**Step 9:** Re-enter the Password
 
 - The "Re-enter Password" field is a required field, and you must enter your password again to confirm that you have typed it correctly. This ensures that you have entered the correct password and helps to prevent any typos or errors.
 
-![Alt Text](Images/Step7-1.png)
+![Alt Text](Images/Step9-1.png)
 
 - Please ensure that you enter your password correctly in both the "Password" and "Re-enter Password" fields to avoid any issues with logging in to your account or accessing your personal information.
 
 - If you notice any discrepancies between the two password fields, please retype your password carefully in both fields to ensure that they match.
 
-![Alt Text](Images/Step7-2.png)
-
+![Alt Text](Images/Step9-2.png)
+                                      
 - Please do not share your password with anyone, including our support team. We will never ask you for your password, and if you receive any suspicious communication asking for your password, please report it to our support team immediately.
 
 - Once you have confirmed your password by entering it again in the "Re-enter Password" field, please proceed to the next step of the registration process by agreeing to the terms and policies.
 
-![Alt Text](Images/Step7-3.png)
+![Alt Text](Images/Step9-3.png)                     
 
-**Step 8:** Accepting Privacy Policy & Terms
+**Step 10:** Accepting Private Policy & Terms
 
 - The "Agree to Terms and Policies" is required to successfully register your account, and you must read through the terms and policies carefully before checking the box to indicate that you have read and agreed to them.
 
-![Alt Text](Images/Step8-1.png)
+![Alt Text](Images/Step10-1.png)
 
 - The terms and policies are designed to protect your rights and ensure that our service is delivered fairly and securely. We recommend that you read through them carefully and make sure that you understand all of the terms before proceeding.
 
@@ -201,21 +241,49 @@ The "Company Name" field is a required field, which means that it must be comple
 
 - By checking the box to indicate that you have read and agreed to the terms and policies, you are legally bound to abide by the terms and policies outlined in the agreement. Please ensure that you understand the terms and policies before proceeding.
 
-![Alt Text](Images/Step8-2.png)
+![Alt Text](Images/Step10-2.png)
 
 - If you do not agree with the terms and policies, you will not be able to register for our service. If you have any objections to the terms and policies, please do not proceed with the registration process.
 
 - Once you have read through the terms and policies and are satisfied that you understand and agree with them, please check the box to indicate that you have read and agreed to the terms and policies before proceeding to the next step of the registration process.
 
-![Alt Text](Images/Step8-3.png)
+![Alt Text](Images/Step10-3.png)
 
-**Step 9:** Subscribe Your Account
+
+**Step 11:** Subscribe Your Account
 
 - Finally, click on the "Subscribe" button to complete the registration process.
 
-Congratulations! You have successfully completed the registration process, and your account has been created. You can now log in to your account and start using our services.
+Congratulations! You have successfully completed the registration process, and your account has been created. You will be now redirected to your account verification page.
 
-Thank you for choosing our services. We look forward to serving you and helping you to achieve your goals.
+![Alt Text](Images/Step11.png)
+
+**Step 12:** Account Verification
+
+- After the user is successfully created you will be prompted to enter a verification code to confirm your account.
+
+![Alt Text](Images/Step12-1.png)
+
+- A verification code will be sent to the email address you provided during the sign-up process. Check your email inbox, including the spam or junk folder, for an email from our FinStackk.
+
+- Retrieve the verification code from the email and enter it into the designated field on the sign-up page.
+
+- Make sure to enter the verification code accurately, as it must match the code provided in the email as the OTP is required.
+
+![Alt Text](Images/Step12-2.png)
+
+- If you did not receive the verification code within 30 seconds, you can click on the "Resend OTP" button to request another code. Double-check your email address to ensure accuracy.
+
+![Alt Text](Images/Step12-3.png)
+
+- Once you have entered the correct verification code, click on the "Verify OTP" button to proceed with the sign-up process.
+
+![Alt Text](Images/Step12-4.png)
+
+- If the verification code is valid and matches the one sent to your email, your account will be successfully verified.
+       
+Thank you for choosing our services. We look forward to serving you and helping you to achieve your goals. If you have any feedback or suggestions for us, please do not hesitate to let us know. We are always looking for ways to improve our services and better serve our customers.
+
 
 ### **2.2. Login**
 
@@ -275,37 +343,53 @@ To log in to your account, you need to first visit the login page of FinStackk.
 
 **Step 4:** Two Factor Authentication(2FA)
 
-At FinStackk, we take the security of our users' accounts very seriously, and we are proud to offer 2FA as an option for our users.
+At FinStackk, we take the security of our users' accounts very seriously, and we are proud to offer 2FA as an option for our users. 
 
 - Two-Factor Authentication, or 2FA, is an additional layer of security that helps protect your account from unauthorized access. With 2FA, you need to provide two forms of identification to log in to your account: your password and a verification code that is generated by a trusted device or application. This makes it much harder for someone to hack into your account even if they have your password.
 
-- Two-factor authentication typically involves providing an additional verification code sent to your email after entering your password. This step ensures that only authorized users can access your account, even if your password is compromised.
+- Two-factor authentication typically involves providing an additional verification code sent to your phone number after entering your password. This step ensures that only authorized users can access your account, even if your password is compromised.
+
+- During the login process, you will be prompted to the 2FA setup method. A dropdown menu or a list of countries will be provided. You have to select your country from the available options and enter your phone number in the designated field, including the country code.
 
 ![Alt Text](Images/LoginStep4-1.png)
 
-- After entering your email ID and password, you may be prompted to enter a verification code generated by an authentication device or application which is sent to your Email ID. This code is unique and changes every few seconds, making it much harder for anyone to gain access to your account even if they have your password. You need to enter this code in the field provided to complete the login process.
+- The country code is a numerical prefix that identifies the country your phone number belongs to. It is usually represented by a "+" sign followed by the country code. For example, the country code for the United States is "+1", for the United Kingdom is "+44", and so on.
 
 ![Alt Text](Images/LoginStep4-2.png)
 
-- It is important to note that the authentication code generated for 2FA may expire after a certain period of time if not used. This is a security measure designed to ensure that your account remains secure in case your phone or authentication device is lost or stolen. So, if you receive an error message while trying to log in using 2FA, make sure to generate a new authentication code and enter it within the allotted time period.
+- Make sure to enter your phone number accurately, including any necessary area or regional codes.
+
+- Once you have entered your phone number, click on the "Update Phone Number" button.
 
 ![Alt Text](Images/LoginStep4-3.png)
 
-- If you haven't received OTP even after waiting for a few minutes, you can click on "Resend OTP" in the Two Factor Authentication page.
+- A verification code will be sent to the phone number you provided via SMS or text message.
+
+- Retrieve the verification code from your mobile device and enter it into the designated field on the 2FA page.
 
 ![Alt Text](Images/LoginStep4-4.png)
 
-- You will be successfully signed in after verifying your correct 2FA code. Remember that you will be prompted to enter a verification code every time you log in.
+- If you did not receive the verification code, you can click on the "Resend OTP" button to request another code.
 
-**Step 5:** Verify OTP For 2FA
+![Alt Text](Images/LoginStep4-5.png)
 
-After entering the email received Two Factor Authentication code, click on "Verify OTP" on the Two Factor Authentication page. You will be successfully logged into your account, and you will be directed to the dashboard page and can access all the features and services provided by FinStackk.
+- Make sure to enter the verification code accurately. Once you have entered the correct verification code, click on the "Verify" or "Submit" button to complete the 2FA setup process.
 
-If you have any questions regarding your account login, please feel free to contact our customer support care. We are always ready to help you.
+![Alt Text](Images/LoginStep4-6.png)
+
+- If the verification code is valid and matches the one sent to your mobile number, your 2FA setup will be successfully completed.
+
+- You cannot use an invalid OTP. When entering the One-Time Password (OTP) during the verification process, please make sure you enter the correct code provided to you. If you enter an incorrect OTP, you will receive a message indicating that the OTP is invalid.
+
+![Alt Text](Images/LoginStep4-7.png)
+
+- From that point forward, whenever you log in to your account, you will be prompted to enter a verification code that will be sent to your registered phone number. 
+
+If you have any questions regarding to your account login, please feel free to contact our customer support care. We are always ready to help you.
 
 ### **2.3. Overview of Dashboard**
 
-The dashboard of our FinStackk is designed to provide you with a quick overview of your account and access to all the key features. With a side menu, you can easily navigate between different sections, including compliance, reports, messages, and documents. The company section allows you to manage your company details, compliance, payments, and users. With this user-friendly layout, you can easily view and manage your compliance status, access important documents, and communicate with other users on the platform. You can also easily logout or access your settings from the dashboard. Our user-friendly design ensures that you can easily access all the features you need to manage your financial obligations efficiently.
+The dashboard of our FinStackk is designed to provide you with a quick overview of your account and access to all the key features. With a side menu, you can easily navigate between different sections, including compliance, insights, reports, messages, and documents. The company section allows you to manage your company details, compliance, payments, and users. With this user-friendly layout, you can easily view and manage your compliance status, access important documents, and communicate with other users on the platform. You can also easily logout or access your settings from the dashboard. Our user-friendly design ensures that you can easily access all the features you need to manage your financial obligations efficiently.
 
 The dashboard is the main interface, providing you with an overview of your financial activities. The side menu provides easy navigation to key features and functions, including compliance management, report generation, messaging system, and document storage.
 
@@ -313,25 +397,29 @@ The dashboard is the main interface, providing you with an overview of your fina
 
 ![Alt Text](Images/OVDB1.png)
 
-- The reports section provides you with the ability to generate detailed financial reports when integrated, helping you make informed business decisions.
+- Insights provide graphical representation for key financial data, including expenses, cash flow, sales, and customer information when integrated. These insights can be customized and filtered to focus on specific criteria such as time period and date. By utilizing these filters, you can analyze trends, identify patterns, and make informed decisions to drive business growth.
 
 ![Alt Text](Images/OVDB2.png)
 
-- The messaging system enables communication between users, such as sending files or sharing important updates.
+- The reports section provides you with the ability to generate detailed financial reports when integrated, helping you make informed business decisions.
 
 ![Alt Text](Images/OVDB3.png)
 
-- The document storage section provides you with a secure and organized way to store and share important documents, such as financial statements or contracts.
+- The messaging system enables communication between users, such as sending files or sharing important updates.
 
 ![Alt Text](Images/OVDB4.png)
 
-- The company section of the dashboard includes details about your company, such as company information. The compliance section allows you to manage your compliance obligations at a company level. The payments section provides you with an overview of your payment history and current payment status. The users section allows you to manage the permissions and access levels of other users within the company.
+- The document storage section provides you with a secure and organized way to store and share important documents, such as financial statements or contracts.
 
 ![Alt Text](Images/OVDB5.png)
 
-- Finally, the logout and settings options provide you with the ability to securely log out of the website and manage your account settings, such as updating your password.
+- The company section of the dashboard includes details about your company, such as company information. The compliance section allows you to manage your compliance obligations at a company level. The payments section provides you with an overview of your payment history and current payment status. The users section allows you to manage the permissions and access levels of other users within the company.
 
 ![Alt Text](Images/OVDB6.png)
+
+- Finally, the logout and settings options provide you with the ability to securely log out of the website and manage your account settings, such as updating your password.
+
+![Alt Text](Images/OVDB7.png)
 
 The dashboard in FinStackk provides you with a centralized and efficient way to manage your financial activities, helping you stay organized, compliant, and informed.
 
@@ -341,8 +429,7 @@ If you have any questions or concerns, we are here to support you. Contact us at
 
 FinStackk offers a range of features and functions to help you manage your finances and make informed decisions. We strive to provide you with an intuitive and user-friendly interface that caters to all your financial needs. FinStackk is designed to assist you in managing your finances by providing you with various tools and resources. Whether you are a business owner, an individual, or a financial professional, we have something to offer to everyone. 
 
-We offer integrations, reports, tasks, compliance, notices, messages, documents as part of our features and functions in FinStackk. With our integrations, you can connect your accounts and manage your finances more efficiently. Our reports provide you with detailed insights into your financial activities, allowing you to make informed decisions. The tasks feature allows you to create and manage tasks, assign them to team members, and track progress. Our compliance feature helps you stay on top of regulatory requirements and avoid penalties. The notices feature keeps you informed about important updates and deadlines, while the messages feature enables easy communication with team members and clients.
-Finally, the documents feature allows you to store and manage important documents securely. With these features and functions, our FinStackk offers a comprehensive solution to your financial management needs.
+We offer integrations, insights, reports, tasks, compliance, notices, messages, documents as part of our features and functions in FinStackk. With our integrations, you can connect your accounts and manage your finances more efficiently. Insights gives you the graphical representation of data for more accessible view. Our reports provide you with detailed insights into your financial activities, allowing you to make informed decisions. The tasks feature allows you to create and manage tasks, assign them to team members, and track progress. Our compliance feature helps you stay on top of regulatory requirements and avoid penalties. The notices feature keeps you informed about important updates and deadlines, while the messages feature enables easy communication with team members and clients. Finally, the documents feature allows you to store and manage important documents securely. With these features and functions, our FinStackk offers a comprehensive solution to your financial management needs.
 
 In this user manual, we will walk you through the different features and functions of FinStackk, and show you how to use them to their full potential.
 
@@ -387,6 +474,8 @@ QuickBooks also offers integration with other software and services, allowing bu
 - In FinStackk, integrating with QuickBooks can provide you with a more comprehensive financial management solution, allowing them to track their finances, invoices, expenses all at one time.
 
 - Integration of QuickBooks with FinStackk can help your businesses improve their financial operations and make informed financial decisions.
+
+- You can easily export QuickBooks (QB) files from FinStackk in various formats such as PDF, CSV, and Excel. This allows you to conveniently generate and save your financial data in formats that best suit your needs for reporting, analysis, or integration with other systems.
 
 - By integrating with QuickBooks, your businesses can automate financial tasks and reduce the likelihood of errors or inconsistencies in their financial records which saves you time.
 
@@ -565,6 +654,14 @@ By generating an Aged Receivables report, businesses can identify the customers 
 ![Alt Text](Images/ReportStep3-19.png)
 
 ![Alt Text](Images/ReportStep3-20.png)
+
+- You can export other important financial reports, including the Cash Flow report, Profit and Loss statement, Balance Sheet, Aged Payables report, and Aged Receivables report. Exporting these reports allows you to analyze and share your financial data in various formats, such as PDF, CSV, or Excel, providing you with flexibility and convenience.
+
+- Locate the specific report you want to export, such as Cash Flow, Profit and Loss, Balance Sheet, Aged Payables, or Aged Receivables. Click on the 'Export' button associated with the report. Choose the desired export format, such as PDF, CSV, or Excel.
+
+![Alt Text](Images/ReportStep3-21.png)
+
+![Alt Text](Images/ReportStep3-22.png)
 
 Hence, reports are a powerful tool that can help businesses stay on top of their finances and make informed decisions. They can help business owners and accountants make informed decisions by analysing data and trends.
 
@@ -1081,9 +1178,9 @@ In this user manual, we will go over the various features and functions of the u
 ![Alt Text](Images/UMFP5.png)
 
 - If you click on the Reset Password link which is sent to your respective email id, you will be directed to a page where you can set your new password. When creating a password, ensure that it is strong and not easily guessable. A strong password typically contains a mix of uppercase and lowercase letters, numbers, and symbols. It is also recommended that you avoid using common words or phrases and use a unique password for each of your accounts to enhance the security of your information and then click on “Submit” button.
-                         
-![Alt Text](Images/UMFP6.png)
 
+![Alt Text](Images/UMFP6.png)
+                         
 ![Alt Text](Images/UMFP7.png)
 
 - If you do not receive the password reset email, make sure to check your spam or junk folder. If you still do not see the email, contact the customer support team for further assistance. 
