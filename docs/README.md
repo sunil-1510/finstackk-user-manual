@@ -36,7 +36,7 @@ We hope this user manual will help you navigate our FinStackk and take full adva
 FinStackk provides a range of key features and benefits to help you manage your finances efficiently and effectively. From compliance management to task tracking, our platform has everything you need to stay on top of your financial affairs. Here we will provide you with a comprehensive overview of the key features and benefits of FinStackk, as well as instructions on how to use them.
 
 - **Integrations:** This feature allows you to connect different financial tools and data sources in one platform, making it easier to manage their finances and make informed decisions.
-- **Insights:** Comprehensive insights like expenses, cash flows, sales, and customer data are presented in graphical format, making it easier to understand and analyze your financial performance.
+
 - **Reports:** Customizable reports that provide valuable insights into financial performance, including profit and loss statements, balance sheets, and cash flow reports.
 - **Tasks:** The ability to create and assign tasks related to financial management, such as invoice creation, payment processing, and payroll management.
 - **Compliance:** Compliance features can help you ensure that they are meeting legal and regulatory requirements related to their finances and investments.
