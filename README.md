@@ -17,7 +17,7 @@ In this user manual, you'll find detailed instructions and guides for each of ou
 - **User Registration:** How to register with our website.
 - **Login:** How to get access to your account via login.
 - **Integrations:** How to connect our website with other applications and services.
-- **Insights:** How to generate and view graphical representation of data.
+
 - **Reports:** How to generate and view financial reports.
 - **Tasks:** How to create, assign, and manage tasks related to your finances.
 - **Compliance:** How to manage compliance requirements and deadlines.
